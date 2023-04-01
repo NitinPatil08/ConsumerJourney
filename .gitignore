@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ConsumerJourney/v16
+/ConsumerJourney/Resources/Resource.designer.cs
+/.vs/slnx.sqlite
