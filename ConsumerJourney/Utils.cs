@@ -1,9 +1,6 @@
-﻿using Android.Content.PM;
-
-namespace ConsumerJourney
+﻿namespace ConsumerJourney
 {
     static class Utils
     {
-        
     }
 }
